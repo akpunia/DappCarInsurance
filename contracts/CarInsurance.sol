@@ -1,4 +1,4 @@
-a solidity ^0.4.0;
+pragma solidity ^0.4.0;
 contract CarInsurance {
     
     enum Location{ longtitute, latitude  }
